@@ -37,7 +37,7 @@ SQL · Streamlit · HTML · CSS · JavaScript
 
 A validation-first molecular geometry optimization project exploring the numerical and software foundations of molecular optimization.
 
-The current implementation includes molecular geometry handling, XYZ structure I/O, a harmonic bond potential, gradient validation, and steepest-descent optimization, supported by automated tests and validation notebooks.
+The current implementation includes molecular geometry handling, XYZ structure I/O, a harmonic bond potential, gradient validation, and steepest-descent geometry optimization, supported by automated tests and validation notebooks.
 
 ### [photocatalysis-kinetics-engine](https://github.com/mariaaziz074-web/photocatalysis-kinetics-engine)
 
@@ -77,7 +77,8 @@ Currently strengthening my capabilities in:
 ## Academic Status
 
 **PhD Scholar in Chemistry**
+**University of Engineering and Technology (UET) Lahore — Department of Chemistry**
 
-University of Engineering and Technology Lahore / Department of Chemistry 
 ## Connect
-* [GitHub](https://github.com/mariaaziz074-web)
+
+* [LinkedIn — ADD YOUR LINK]
