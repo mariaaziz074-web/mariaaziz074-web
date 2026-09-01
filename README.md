@@ -81,4 +81,5 @@ Currently strengthening my capabilities in:
 
 ## Connect
 
-* [LinkedIn — ADD YOUR LINK]
+* (https://www.linkedin.com/in/maria-aziz-6b9262433/)
+  
