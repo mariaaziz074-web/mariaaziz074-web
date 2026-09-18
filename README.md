@@ -1,85 +1,104 @@
 # Maria Aziz
 
-**PhD Scholar in Chemistry | Computational Chemistry & Scientific Software**
+**PhD Chemistry Researcher | Computational Chemistry | Scientific Python | Molecular Modeling & Research Software**
 
-I am a chemistry researcher developing computational and scientific-programming capabilities through research-driven software and data-analysis projects.
+I am a PhD researcher in Chemistry at the **University of Engineering and Technology (UET), Lahore**, working at the intersection of chemistry, computational research, scientific programming, and data-driven analysis.
 
-My work focuses on applying **Python, computational methods, quantitative data analysis, and validation-oriented software practices to chemical research**.
+I build **reproducible, testable scientific software and computational workflows** for chemistry and materials research.
 
-## Research & Technical Interests
+## What I Work On
 
-* Computational Chemistry
-* Molecular Modeling
-* Scientific Programming
-* Scientific Data Analysis
-* Research Software
-* Computational Materials Chemistry
-* Chemical Kinetics
-* Reproducible Computational Research
+* Computational chemistry and molecular modeling
+* Scientific Python and numerical methods
+* Chemical data validation and preprocessing
+* Quantitative chemical data analysis
+* Molecular geometry and optimization
+* Chemical kinetics and photocatalysis
+* Cheminformatics
+* Machine learning for chemical research
+* Reproducible scientific workflows
 
-## Technical Stack
+## Scientific Programming
 
-**Scientific Python**
-Python · NumPy · Pandas · Matplotlib · Scikit-learn
+**Python:** NumPy · Pandas · SciPy · scikit-learn · Matplotlib · Jupyter
 
-**Computational & Chemical Research**
-Computational Chemistry · Molecular Modeling · Chemical Data Analysis · Kinetic Analysis
+**Chemistry:** RDKit · Molecular Modeling · Chemical Data Analysis · Kinetic Analysis
 
-**Research Software**
-Git · GitHub · pytest · Jupyter · Scientific Testing · Reproducible Workflows
+**Research Software:** Git · GitHub · pytest · Automated Testing · Reproducibility · Data Provenance
 
-**Supporting Technologies**
-SQL · Streamlit · HTML · CSS · JavaScript
+**Supporting Tools:** SQL · Streamlit · Joblib
 
 ## Selected Projects
 
-### [comp-chem-optimizer](https://github.com/mariaaziz074-web/comp-chem-optimizer)
+### Computational Chemistry Molecular Geometry Optimizer
 
-A validation-first molecular geometry optimization project exploring the numerical and software foundations of molecular optimization.
+A validation-oriented Python implementation exploring the numerical foundations of molecular geometry optimization.
 
-The current implementation includes molecular geometry handling, XYZ structure I/O, a harmonic bond potential, gradient validation, and steepest-descent geometry optimization, supported by automated tests and validation notebooks.
+* Molecular geometry and Cartesian coordinates
+* XYZ structure input/output
+* Harmonic bond potential
+* Analytical and numerical gradient validation
+* Steepest-descent optimization
+* Automated testing
 
-### [photocatalysis-kinetics-engine](https://github.com/mariaaziz074-web/photocatalysis-kinetics-engine)
+**Focus:** numerical methods, scientific correctness, and testable computational chemistry.
 
-A reproducible computational workflow for analyzing photocatalytic degradation and adsorption kinetics from experimental datasets.
+### Chem Research Data
 
-The project organizes raw and processed data, kinetic fitting, diagnostics, model comparison, and reproducible analysis outputs.
+A reproducible chemistry data-processing toolkit focused on preparing chemical datasets for reliable analysis.
 
-### [chemistry-dataset-validator](https://github.com/mariaaziz074-web/chemistry-dataset-validator)
+* Chemical structure validation and canonicalization
+* Molecular formula and molecular-weight calculations
+* Unit handling and conversion
+* Data-quality checks
+* Provenance and transformation tracking
+* Automated testing
 
-A Python-based validation tool for identifying common quality and consistency problems in chemistry datasets before analysis or machine-learning workflows.
+**Focus:** scientific data quality, reproducibility, and research software.
 
-The validator checks required fields, missing values, duplicates, non-finite values, and scientifically invalid negative values, with automated tests.
+### Chemistry Dataset Validator
 
-### [uvvis-calibration-analyzer](https://github.com/mariaaziz074-web/uvvis-calibration-analyzer)
+A Python validation workflow for detecting structural, numerical, and consistency problems in chemistry datasets before downstream analysis or machine learning.
 
-A reproducible Python workflow for UV-Vis calibration analysis and concentration estimation.
+**Focus:** validation rules, error reporting, edge cases, and automated testing.
 
-The project combines calibration-curve fitting, quantitative estimation, diagnostic plots, automated tests, and explicit documentation of methodological limitations.
+### UV-Vis Calibration Analyzer
 
-## Research Approach
+A reproducible Python workflow for quantitative UV-Vis calibration.
 
-I am particularly interested in computational research where **scientific assumptions, numerical behavior, validation, reproducibility, and limitations are made explicit**.
+* Calibration-curve fitting
+* Concentration estimation
+* Residual diagnostics
+* Automated tests
+* Explicit methodological limitations
 
-I aim to build computational tools that are not only functional, but also understandable, testable, and scientifically defensible.
+**Focus:** translating analytical chemistry equations into reliable scientific code.
 
-## Current Development
+## Research Projects
 
-Currently strengthening my capabilities in:
+My broader computational research portfolio includes:
 
-* Computational chemistry
-* Molecular modeling
-* Scientific software engineering
-* Cheminformatics
-* Machine learning for chemistry
-* Reproducible computational workflows
+* Photocatalytic degradation and adsorption kinetics
+* Photocatalysis machine-learning datasets
+* Research-data benchmarking and out-of-distribution evaluation
+* Chemical activity prediction
+* MOF synthesis data curation
+
+## Research Philosophy
+
+I care about the connection between **scientific assumptions and computational implementation**.
+
+My projects emphasize:
+
+**Scientific formulation → implementation → validation → testing → reproducibility → limitations**
+
+The goal is not simply to make code run, but to make computational results **understandable, testable, reproducible, and scientifically defensible**.
 
 ## Academic Status
 
 **PhD Scholar in Chemistry**
-**University of Engineering and Technology (UET) Lahore — Department of Chemistry**
+University of Engineering and Technology (UET), Lahore
 
 ## Connect
 
-* (https://www.linkedin.com/in/maria-aziz-6b9262433/)
-  
+[LinkedIn](https://www.linkedin.com/in/maria-aziz-6b9262433/)
